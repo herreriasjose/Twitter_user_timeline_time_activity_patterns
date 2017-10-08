@@ -5,7 +5,7 @@ I've just gathered about 17,000 Tweets (no retweets) from @realDonaldTrump and I
 
 ![animation](img/animation.gif)
 
-It uses Python to get the Tweets (source not included in this Git) and extract the data and D3 to show them.
+It uses Python to get the Tweets (source not included in this Git) and extracts the data and D3 to show them.
 
 
 
